@@ -1,2 +1,0 @@
-defmodule MixDeployTest do
-end
