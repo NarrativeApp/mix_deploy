@@ -5,6 +5,15 @@ See [Conventional Commits](Https://conventionalcommits.org) for commit guideline
 
 <!-- changelog -->
 
+## [v0.3.2](https://github.com/NarrativeApp/mix_deploy/compare/v0.3.1...v0.3.2) (2025-10-13)
+
+
+
+
+### Bug Fixes:
+
+* add env to migrate deploy template
+
 ## [v0.3.1](https://github.com/NarrativeApp/mix_deploy/compare/v0.3.0...v0.3.1) (2024-05-21)
 
 
